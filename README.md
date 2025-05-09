@@ -7,6 +7,5 @@ This project followes a book called "Linux From Scratch", created by Gerard Beek
 
 
 
-
 ---
 [Link to book](https://www.linuxfromscratch.org/lfs/downloads/10.0-rc1/LFS-BOOK-10.0-rc1-NOCHUNKS.html#pre-foreword)
